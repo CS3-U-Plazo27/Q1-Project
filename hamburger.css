@@ -6,7 +6,7 @@ div{
 }
 .sesameseeds{
     background-image: url("Hampster.png");
-    background-height: 180px;
+    background-size: 180px;
     height: 180px;
     width: auto;
 }
